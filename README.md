@@ -84,7 +84,7 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
 
 # Data Schema
 <p align="center">
-  <img src="/Users/mac/Desktop/capstone_project/Setup/images/image1.png" alt="Data_schema" width="600"/>
+  <img src="./Setup/images/image1.png" alt="Data_schema" width="600"/>
 </p>
 
 
@@ -101,7 +101,7 @@ This is a Brazilian ecommerce public dataset of orders made at Olist Store. The 
 
 # Data Architecture
 <p align="center">
-  <img src="/Users/mac/Desktop/capstone_project/Setup/images/data_architecture.gif" alt="Pipeline Diagram" width="600"/>
+  <img src="./Setup/images/data_architecture.gif" alt="Pipeline Diagram" width="600"/>
 </p>
 
 # Project Flow:
@@ -135,7 +135,7 @@ Below are steps on how to run this pipeline;
 </ul>
 
 <p align="center">
-  <img src="/Users/mac/Desktop/capstone_project/Setup/images/airflow.jpeg" alt="Airflow" width="600"/>
+  <img src="./Setup/images/airflow.jpeg" alt="Airflow" width="600"/>
 </p>
 
 4. Load Data from PostgreSQL to Google Cloud Storage:
@@ -156,7 +156,7 @@ Below are steps on how to run this pipeline;
 </ul>
 
 <p align="center">
-  <img src="/Users/mac/Desktop/capstone_project/Setup/images/bigquery.png" alt="Bigquery" width="600"/>
+  <img src="./Setup/images/bigquery.png" alt="Bigquery" width="600"/>
 </p>
 
 7. Answer Analytical Questions:
