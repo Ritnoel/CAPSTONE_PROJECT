@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tenacious-coder-416410",
+  "private_key_id": "80d26b8d5e399c22ee666b8425596a0bdc90e6db",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDH7CUd/u/9s/gB\nlIKcigxQC+Xv/wGrYLzikjOct4rBiC0g0g78PtGK8RRIQj8DI/OL8kmup/GskQP6\nJerJ/3mAZIZoQ5pxVOqyiO2caa8XZ1+jxNdfahPogblJpx1x6Z7dc+L2O3eidT1U\nB87foTbxrJnARBLmcUG4FEBNWHzCyPagzF8CbvgfWn1k+HIHRcTxAxRlHcqkOAm7\ngksf9oDVteIk4VVUcgWcPTPnpALygYuhb16uhFUEFZRQep/NdZUaW/ztA/nZBxiV\nqQ8s8ZbZQwX51CiO1H/f59Gy59hmlAnZjLV7RDhA9FyJTUO6WEQlgWp7AEXoFVZp\nF+S8Fl2xAgMBAAECggEAATm1SQj94YMubnEMThIVDP0OWTbJ5MoRzP2P14KIVShv\nkWDO6B9+SJDIJWtoMuMFUZq9YPa6fHVXmJtjTulpWN7U3uj81nwVI7LDP8G7Pw8a\ncZjUZ/XwyQyELUYbAA6fk18sBBhyzWdp+1zAY9PGGtFfuw4CbntBfOkSiKmAZe++\nDZhFbDO603/XVz925K+J7v3BevKgKAy+RFduw29fiEUJtDxVuupzv+VrefIUX+Vg\nUGMWSa5jDjTwU/SoDdRlR2GU962JzXhdjyMG/M5f7XAG6ZpRRPmlFMIoOCgACnui\nUM8MeZFrCW9QyqBrYLWNF1ES7XdWEiv0/EgXdT6qAQKBgQDjZN61fgQWLs59lrke\nS6sx6RVc54RqBO3ajroI5FlGurWcF9hdczGRwOH3zLIdJ1FcEteUwprTsYF1cKw3\nX6kaasIZNX2o9zMIQws7QvSNxtzXChtdqvswFGtdXD3K/KH3tcgnIUJWN8HVEsK5\nVdJQLqeocv0O0ihQWEF0ROGVAQKBgQDhEpBsK3JTd9XW6POIozEHXkPtQ5eqK1Di\n4vF0oraNk9pztR5x8d05TCBXWuBGTcbSRFVY5jKxxpEf3vCg/wYp1zpJunEcwLBi\nUVcJhmUwEMFbRv0W27mf1b5EgJWxcbGfJb1P50/2XPy/UJhK2TDDv4PBa+x2QDUY\nZRGNsuZYsQKBgCo2YXmDqTKNAdwijL7pASDEyihy+gvMWnNGJ5ba/Q+6PVh6vLms\nVrld+xTLNQ1gbSQQg2CkN6Wwv/2TKwUkhvnWc63GVkt1iE2yVHVt2oQvNHPe9nGO\n+g5U3BF6vCXgfBjF8CADdpMWyq7JSsio+9/SqWEF56BGtyEjIRN6bf4BAoGAMtIM\nRkBxKiOu5z3mb33Zvj4svFA82LG7K9/ugVWUPteZxfKpkzT3rM5hpxff+D/rmuLP\nGqmv3LBnaHjggJnU/HGaubcdf06LBUg0jPQJuRavcjrPPvASM+MBeVpHcq+nWbYd\nzwL97TUF5PT/zjbIagq+Z1hFJlZNJtr7YbF5jaECgYBYkxSXeBYp2+cf5VEA9ovg\nMvuFPWLxwBtWpvT7xo2SFu/c47XQBwPM86CCYfUax4N8eTJMDv5Q/Wa7AXqUTDOb\nZHluKrDgFA3z4hzV0Vg+RsqjNOBgQyXHgmx51crBM64TFLPZiOpiuhm5W0cN/bqM\nwySkVx7u4AnUuiM85r0nTg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "capstone-service-account-gcp@tenacious-coder-416410.iam.gserviceaccount.com",
+  "client_id": "102687068165499895021",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/capstone-service-account-gcp%40tenacious-coder-416410.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

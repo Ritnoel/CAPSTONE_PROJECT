@@ -1,0 +1,31 @@
+[0m23:39:55.827729 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fec6ef85fd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fec71094b80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fec71094d60>]}
+
+
+============================== 23:39:55.850171 | 8f636967-5ec3-43d5-ae37-cdba80049223 ==============================
+[0m23:39:55.850171 [info ] [MainThread]: Running with dbt=1.8.5
+[0m23:39:55.853337 [debug] [MainThread]: running dbt with arguments {'printer_width': '80', 'indirect_selection': 'eager', 'write_json': 'True', 'log_cache_events': 'False', 'partial_parse': 'True', 'cache_selected_only': 'False', 'warn_error': 'None', 'fail_fast': 'False', 'debug': 'False', 'log_path': 'logs', 'profiles_dir': '/Users/mac/.dbt', 'version_check': 'True', 'use_colors': 'True', 'use_experimental_parser': 'False', 'empty': 'None', 'quiet': 'False', 'no_print': 'None', 'warn_error_options': 'WarnErrorOptions(include=[], exclude=[])', 'introspect': 'True', 'static_parser': 'True', 'invocation_command': 'dbt init Ecommerce-dbt', 'target_path': 'None', 'log_format': 'default', 'send_anonymous_usage_stats': 'True'}
+[0m23:39:56.094371 [warn ] [MainThread]: [ConfigFolderDirectory]: Unable to parse dict {'dir': PosixPath('/Users/mac/.dbt')}
+[0m23:39:56.098572 [info ] [MainThread]: Creating dbt configuration folder at 
+[0m23:40:58.216494 [debug] [MainThread]: Starter project path: /Users/mac/Desktop/capstone_project/venv/lib/python3.9/site-packages/dbt/include/starter_project
+[0m23:40:58.248030 [info ] [MainThread]: 
+Your new dbt project "dbt_capstone" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m23:40:58.249259 [info ] [MainThread]: Setting up your profile.
+[0m23:47:47.942190 [info ] [MainThread]: Profile dbt_capstone written to /Users/mac/.dbt/profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m23:47:48.032283 [debug] [MainThread]: Resource report: {"command_name": "init", "command_success": true, "command_wall_clock_time": 472.5624, "process_user_time": 5.379666, "process_kernel_time": 1.448442, "process_mem_max_rss": "160227328", "process_in_blocks": "0", "process_out_blocks": "0"}
+[0m23:47:48.055291 [debug] [MainThread]: Command `dbt init` succeeded at 23:47:48.052770 after 472.62 seconds
+[0m23:47:48.060175 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fec6ef85fd0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fec70f21b80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x7fec713958e0>]}
+[0m23:47:48.066151 [debug] [MainThread]: Flushing usage events

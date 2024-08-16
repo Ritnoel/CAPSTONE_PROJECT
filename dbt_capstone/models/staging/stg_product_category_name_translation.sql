@@ -1,0 +1,1 @@
+select * from {{ source('dataset', 'product_category_name_translation') }}

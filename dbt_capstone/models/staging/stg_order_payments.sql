@@ -1,0 +1,1 @@
+select * from {{ source('dataset', 'order_payments') }}
