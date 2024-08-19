@@ -11,3 +11,10 @@ airflow.cfg
 airflow.db
 venv
 pg_data
+include/gcs
+logs
+tests
+.astro
+plugins
+Setup/images
+.dockerignore
