@@ -11,7 +11,7 @@ airflow.cfg
 airflow.db
 venv
 pg_data
-include/gcs
+include/gcs/*.json
 logs
 tests
 .astro
